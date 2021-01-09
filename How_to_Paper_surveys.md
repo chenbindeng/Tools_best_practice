@@ -103,7 +103,7 @@
 
 总体来说，文献综述不同于一般的方法论述类学术论文，它的格式化没有那么明显，具体结构需要结合所针对的研究领域和文献梳理结果来确定。但这也不意味着毫无规律可循。
 
-![figure7](https://pic1.zhimg.com/80/v2-5a294f1c6debfb70e8e5cb849f1b9c50_1440w.jpg)
+![Figure7](https://pic1.zhimg.com/80/v2-5a294f1c6debfb70e8e5cb849f1b9c50_1440w.jpg)
 
 如上图所示，
 
@@ -140,5 +140,5 @@
 
 最后，推荐两本关于英文学术论文写作的书籍（需要电子版的可以私信我）：
 
-  *《Science Research Writing for Non-Native Speakers of English》[2]
+  *《Science Research Writing for Non-Native Speakers of English》[2]  
   *《Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded》[3]
