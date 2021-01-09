@@ -142,3 +142,44 @@
 
   *《Science Research Writing for Non-Native Speakers of English》[2]  
   *《Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded》[3]
+
+### 4. 工具介绍
+#### 4.1 编辑和排版
+  * LaTeX +TeXstudio
+LaTex是文档排版工具，区别于word的“所见即所得”排版方式，LaTex需要使用特殊命令控制文章格式，排版任务由后台系统执行，经过编译后，可以得到排版后的PDF格式文章。使用LaTex需要首先安装编译系统，如TexLive；然后再编辑器，如TeXstudio中编辑源文件。
+
+如果有意向读研究生或走向学术道路，个人还是建议大家学会使用LaTex，这也是目前大多数学术期刊选择的主流的文章排版方式，他们几乎都会提供模板和格式文件，并接受LaTex文件的投稿方式。
+
+推荐两个LaTex教程：
+
+  * 视频教程：[LaTeX Video Tutorials](https://link.zhihu.com/?target=http%3A//mrskrummel.com/tutorials)
+  * 文字教程（中文）：[Contents](https://link.zhihu.com/?target=http%3A//www.ctex.org/documents/latex/graphics/node2.html)
+
+#### 4.2 文献管理
+  * JabRef：https://www.http://jabref.org/
+  * Mendeley：Download Mendeley Desktop | Mendeley
+
+两个工具都可以基于Bibtex源代码记录并管理参考文献条目。
+
+  * JabRef小巧、简洁，功能齐全，跨平台可用。能够直接将文献条目推送给外部程序，如TeXstudio，从而完成文献引用。最新版的Jabref还增加了反向索引功能，能够显示具体在哪个latex源文件的哪行引用了某一文献条目。
+  
+  ![Figure10](https://pic1.zhimg.com/80/v2-0389e61467bb1f4e8f9c38812b5b87fc_1440w.jpg)
+  * Mendeley功能更丰富一些，比如支持在线同步文献数据库。此外，他的在线搜索资源也要比 JabRef好用一些。
+
+#### 4.3 示意图制作
+  * MS PowerPoint (PPT)
+  * http://http://Draw.io：Flowchart Maker & Online Diagram Software。可以根据关键词搜索各种种类的图形，如果画示意图中需要一些实体图形，使用这个是比较方便的。
+
+![Figure11](https://pic1.zhimg.com/80/v2-74b802008adbdd78115699d4d0b6c4ac_1440w.jpg)
+
+#### 4.4 思维导图
+  * 这篇文章中所有思维导图都是使用FreeMind制作的。一个小巧、容易上手的思维导图制作软件。
+  
+#### 4.5 英语写作
+  * 语法检查：[Linggle 10^12- Language Reference Search Engines](https://link.zhihu.com/?target=https%3A//www.linggle.com/%23)
+  * 近义词/反义词查询：[Thesaurus.com - The world's favorite online thesaurus!](https://link.zhihu.com/?target=https%3A//www.thesaurus.com/)
+
+### 参考
+1. ^学术研究：你的成功之道 https://book.douban.com/subject/20284332/
+2. ^abScience Research Writing for Non-Native Speakers of English https://doi.org/10.1142/p605
+3. ^Writing Science How to Write Papers That Get Cited and Proposals That Get Funded https://doi.org/10.1080/0889311X.2013.769529
