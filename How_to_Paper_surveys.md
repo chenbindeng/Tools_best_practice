@@ -103,7 +103,7 @@
 
 总体来说，文献综述不同于一般的方法论述类学术论文，它的格式化没有那么明显，具体结构需要结合所针对的研究领域和文献梳理结果来确定。但这也不意味着毫无规律可循。
 
-![Figure7](https://pic1.zhimg.com/80/v2-5a294f1c6debfb70e8e5cb849f1b9c50_1440w.jpg)
+![Figure7](https://github.com/chenbindeng/Tools_best_practice/blob/main/Figures/v2-5a294f1c6debfb70e8e5cb849f1b9c50_1440w.jpg)
 
 如上图所示，
 
